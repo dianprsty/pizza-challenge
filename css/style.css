@@ -75,6 +75,7 @@ nav {
   margin: auto;
   width: 150px;
   border-radius: 50%;
+  background-color: #ffffff;
 }
 .profile-name,
 .profile-title {
